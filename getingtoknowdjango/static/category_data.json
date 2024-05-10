@@ -1,0 +1,1 @@
+﻿[{"model": "catalog.category", "pk": 6, "fields": {"name": "Повседневная одежда", "description": "Одежда"}}, {"model": "catalog.category", "pk": 7, "fields": {"name": "Носки", "description": "Обыкновенные"}}]
